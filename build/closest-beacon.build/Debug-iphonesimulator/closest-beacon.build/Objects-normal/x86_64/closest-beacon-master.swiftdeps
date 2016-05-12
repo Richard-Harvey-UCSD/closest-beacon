@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "5cc60407d1adff5bedb8666f69088da6"
+build_time: [514753896, 55673000]
+inputs:
+  "/Users/kennethharvey/Desktop/iPhoneApps/closest-beacon/closest-beacon/ViewController.swift": [514747183, 0]
+  "/Users/kennethharvey/Desktop/iPhoneApps/closest-beacon/closest-beacon/AppDelegate.swift": [514739208, 0]
